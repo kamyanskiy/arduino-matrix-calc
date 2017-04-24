@@ -1,1 +1,3 @@
-"# arduino-matrix-calc" 
+"# arduino-matrix-calc"
+ 
+![Result](./ardinfo.png)
